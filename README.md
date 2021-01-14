@@ -9,7 +9,7 @@ Boas! Este é  o repositório onde irei guardar todo o meu projeto de Multimédi
 <img src=https://simpleicons.org/icons/blender.svg style="max-width:100%;" height="50px">
 
 
-## RoadMap
+## Road Map
 - Creation of a **Terrain** (Unity);
 	> Mountains; <br>
 	> Pathways; <br>
@@ -17,4 +17,8 @@ Boas! Este é  o repositório onde irei guardar todo o meu projeto de Multimédi
 	> Vegetation; <br>
 	
 - Creation of a **character** (Blender / MakeHuman);
-- Creation of **Objects** (Blender / Sketchup);
+- Creation of **Objects** (Blender / Sketchup); <br>
+<br> 
+
+### Link to the full Road Map
+https://github.com/DanielPires11/Unity-Project/projects/1
