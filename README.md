@@ -6,10 +6,10 @@ Boas! Este é  o repositório onde irei guardar todo o meu projeto de Multimédi
 
 ## RoadMap
 - Creation of a **Terrain** (Unity);
-	> Mountains;
-	> Pathways;
-	> River / Lake;
-	> Vegetation;
+	> Mountains; <br>
+	> Pathways; <br>
+	> River / Lake; <br>
+	> Vegetation; <br>
 	
 - Creation of a **character** (Blender / MakeHuman);
 - Creation of **Objects** (Blender / Sketchup);
